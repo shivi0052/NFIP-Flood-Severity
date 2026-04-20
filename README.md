@@ -22,7 +22,7 @@ The complete analysis covers 1,989,613 historical flood insurance claims, spans 
 ## Project Objectives
 
 1. **Predict** the dollar amount NFIP pays on building coverage for an incoming flood claim, using only information available at claim submission.
-2. **Identify** the structural, geographic, and hazard features that most strongly drive claim severity — validated by both domain knowledge and SHAP analysis.
+2. **Identify** the structural, geographic, and hazard features that most strongly drive claim severity , validated by both domain knowledge and SHAP analysis.
 3. **Demonstrate** why non-linear tree-based models are necessary for this problem (spoiler: conditional interactions that linear models cannot capture explain the 2× performance gap between XGBoost and Linear Regression).
 4. **Translate** model findings into three concrete, deployment-ready recommendations for FEMA's claims operations.
 
