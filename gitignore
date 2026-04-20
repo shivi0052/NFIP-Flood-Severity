@@ -1,0 +1,43 @@
+# ── Data files (too large for GitHub) ──────────────────────────────
+*.parquet
+*.csv
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.feather
+*.arrow
+
+# ── Jupyter / Colab artifacts ───────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# ── Python environment ──────────────────────────────────────────────
+.env
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# ── OS artifacts ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE / editor files ──────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Logs and temp ───────────────────────────────────────────────────
+*.log
+*.tmp
+*.temp
+
+# ── Model binaries (optional — add if committing trained models) ────
+# model_*.pkl        ← uncomment to also exclude saved models
