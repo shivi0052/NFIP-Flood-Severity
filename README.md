@@ -78,8 +78,6 @@ nfip-flood-severity/
 
 > **➡️ [Open in Google Colab](https://colab.research.google.com/drive/1myySw-avWrTSmwQrTm7ytpGIHBkwBy3n?usp=sharing)**
 
-Replace `YOUR_COLAB_LINK_HERE` with your shared Colab link after uploading the notebook. To share: File → Share → "Anyone with the link" → Viewer.
-
 ### How to Run
 
 1. Open the Colab notebook via the link above.
