@@ -4,6 +4,7 @@
 ---
 
 **Course:** ISOM 835 – Predictive Analytics and Machine Learning  
+**Studen Name:** Shivani  
 **Instructor:** Hasan Arslan  
 **Institution:** Suffolk University, Sawyer Business School  
 **Program:** Master of Science in Business Analytics (MSBA)  
