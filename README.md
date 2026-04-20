@@ -169,9 +169,7 @@ nfip-flood-severity/
 
 A single-file interactive website summarizing the full project is available at:
 
-> **[https://YOUR_USERNAME.github.io/nfip-flood-severity](https://YOUR_USERNAME.github.io/nfip-flood-severity)**
-
-To enable: Settings → Pages → Deploy from branch → main / (root).
+> **[https://shivi0052.github.io/nfip-flood-severity](https://YOUR_USERNAME.github.io/Nfip-Flood-Severity)**
 
 ---
 
