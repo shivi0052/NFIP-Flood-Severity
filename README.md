@@ -140,19 +140,20 @@ nfip-flood-severity/
 - **Correlation:** `freeboard_positive` shows −0.078 linear correlation but is a top SHAP contributor — its effect is *conditional*, which linear models cannot detect.
 
 ---
+
 ## 📊 Key Visualizations
 
 **Target Variable Distribution**
-![Target Distribution](visualizations/Understanding Our Target.png)
+![Target Distribution](visualizations/Understanding%20Our%20Target.png)
 
-**Water Depth vs Claim Severity**
-![Hazard Intensity](visualizations/Hazard Intensity.png)
+**Hazard Intensity & Water Depth**
+![Hazard Intensity](visualizations/Hazard%20Intensity.png)
 
 **Geographic Concentration of Flood Losses**
-![Geography](visualizations/Geographic Concentration of NFIP Flood Losses.png)
+![Geography](visualizations/Geographic%20Concentration%20of%20NFIP%20Flood%20Losses.png)
 
 **Model Performance Comparison**
-![Model Comparison](visualizations/Model Performance Comparison.png)
+![Model Comparison](visualizations/Model%20Performance%20Comparison.png)
 
 
 
