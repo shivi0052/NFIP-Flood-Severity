@@ -342,18 +342,18 @@ nfip-flood-severity/
 ├── report/
 │   └── NFIP_Final_Report.md         (this document)
 └── visualizations/
-    ├── eda1_target_distribution.png
-    ├── eda2_temporal_patterns.png
-    ├── eda3_water_depth.png
-    ├── eda4_flood_zones.png
-    ├── eda5_vulnerability.png
-    ├── eda6_geography.png
-    ├── eda7_correlation.png
-    ├── eda8_claim_profiles.png
-    ├── model_comparison.png
-    ├── feature_importance.png
-    ├── shap_summary.png
-    └── diagnostics.png
+    ├── Building Vulnerability.png
+    ├── Correlation Analysis.png
+    ├── Feature Importance.png
+    ├── Flood Zone Risk.png
+    ├── Geographic Concentration of NFIP Flood Losses.png
+    ├── Hazard Intensity.png
+    ├── High Severity vs Low Severity Claim Profiles.png
+    ├── Model Performance Comparison.png
+    ├── SHAP Analysis.png
+    ├── Seasonality of NFIP Flood Claims.png
+    ├── Understanding Our Target.png
+    └── XG Boost Model Diagnostic.png
 ```
 
 ### B. Libraries and Versions
