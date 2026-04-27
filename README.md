@@ -57,28 +57,27 @@ The complete analysis covers 1,989,613 historical flood insurance claims, spans 
 ```
 nfip-flood-severity/
 │
-├── README.md                        ← You are here
-├── .gitignore
-├── index.html                       ← Project website (GitHub Pages)
-│
-├── NFIP_Complete_Analysis_v3.ipynb  ← Main analysis notebook (Colab)
-│
 ├── report/
 │   └── NFIP_Final_Report.md         ← 10-page final report
 │
-└── visualizations/
-    ├── Building Vulnerability.png
-    ├── Correlation Analysis.png
-    ├── Feature Importance.png
-    ├── Flood Zone Risk.png
-    ├── Geographic Concentration of NFIP Flood Losses.png
-    ├── Hazard Intensity.png
-    ├── High Severity vs Low Severity Claim Profiles.png
-    ├── Model Performance Comparison.png
-    ├── SHAP Analysis.png
-    ├── Seasonality of NFIP Flood Claims.png
-    ├── Understanding Our Target.png
-    └── XG Boost Model Diagnostic.png
+├── visualizations/
+│   ├── Building Vulnerability.png
+│   ├── Correlation Analysis.png
+│   ├── Feature Importance.png
+│   ├── Flood Zone Risk.png
+│   ├── Geographic Concentration of NFIP Flood Losses.png
+│   ├── Hazard Intensity.png
+│   ├── High Severity vs Low Severity Claim Profiles.png
+│   ├── Model Performance Comparison.png
+│   ├── SHAP Analysis.png
+│   ├── Seasonality of NFIP Flood Claims.png
+│   ├── Understanding Our Target.png
+│   └── XG Boost Model Diagnostic.png
+│
+├── NFIP_Complete_Analysis_v3.ipynb  ← Main analysis notebook (Colab)
+├── README.md                        ← You are here
+├── .gitignore
+└── index.html                       ← Project website (GitHub Pages)
 ```
 
 ---
