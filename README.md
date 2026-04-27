@@ -9,6 +9,15 @@
 
 ---
 
+
+## 🌐 Project Website
+
+A single-file interactive website summarizing the full project is available at:
+
+> **https://shivi0052.github.io/NFIP-Flood-Severity/**
+
+---
+
 ## Project Summary
 
 This project builds an **end-to-end machine learning pipeline** to predict the severity of individual flood insurance claims filed with the National Flood Insurance Program (NFIP), managed by FEMA. Given a flood claim record — including property characteristics, flood zone, water depth, and building type — the model predicts how much NFIP will pay on the building coverage.
@@ -179,15 +188,7 @@ nfip-flood-severity/
 
 3. **Can the model be used operationally to improve FEMA's claims process?** → Yes, in three ways: real-time claims triage, pre-season portfolio risk screening, and property-specific elevation valuation.
 
----
 
-## 🌐 Project Website
-
-A single-file interactive website summarizing the full project is available at:
-
-> **https://shivi0052.github.io/NFIP-Flood-Severity/**
-
----
 
 ## Ethical Considerations
 
